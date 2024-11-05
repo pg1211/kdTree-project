@@ -1,2 +1,2 @@
 # kdtree-personal-project
- KD Tree project
+ Personal project implementing a basic KD-Tree
