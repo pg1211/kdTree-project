@@ -6,4 +6,12 @@ Features
 Insert Points: Add points into the KD-Tree. Insert a single point at a time
 Search Points: Query if a specific point exists in the tree.
 Nearest Neighbor Search (KNN): Find the k-nearest neighbors to a given point.
-Delete Points: Remove points from the KD-Tree. Delete a single point at a time
+Delete Points: Remove points from the KD-Tree. Delete a single point at a time.
+
+# Performance
+Build Time Complexity: 
+O(NlogN) for N points
+Insert/Search Time Complexity: 
+O(logN) on average
+KNN Query Complexity: 
+O(k⋅logN) for k neighbors
